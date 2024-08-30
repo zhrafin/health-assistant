@@ -44,7 +44,7 @@ streamlit run app.py
 Usage
 ```
 
-### Diabetes Prediction:
+### Predictions:
 
 Navigate to the "Diabetes Prediction" section from the sidebar.
 Enter the required medical data like number of pregnancies, glucose level, blood pressure, etc.
