@@ -15,7 +15,7 @@ Health Assistant is a web application designed to predict the likelihood of diab
 
 ## Demo
 
-To see the Health Assistant in action, click [here]([https://github.com/zhrafin/health-assistant/tree/main](https://health-assistant-byrafin.streamlit.app/)) for a live demo.
+To see the Health Assistant in action, click [here](https://health-assistant-byrafin.streamlit.app/) for a live demo.
 
 ## Installation
 
