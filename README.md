@@ -1,5 +1,6 @@
-# Multiple Disease Prediction Streamlit App - Health Assistant
+# Health Assistant - Multiple Disease Prediction Streamlit App 
 
+## Project Overview
 
 Health Assistant is a web application designed to predict the likelihood of diabetes, heart disease, and Parkinson's disease using machine learning models. The app provides an easy-to-use interface where users can input relevant medical data and receive instant predictions. This application leverages Streamlit for the frontend, and multiple pre-trained machine learning models for predictions.
 
@@ -44,7 +45,7 @@ streamlit run app.py
 Usage
 ```
 
-### Predictions:
+## Predictions:
 
 Navigate to the "Diabetes Prediction" section from the sidebar.
 Enter the required medical data like number of pregnancies, glucose level, blood pressure, etc.
@@ -65,24 +66,8 @@ Heart Disease Model: A classification model trained to assess the risk of heart 
 Parkinson's Model: A model trained to predict Parkinson's disease using voice measurements and other medical features.
 Each model has been trained on publicly available datasets and fine-tuned for better accuracy.
 
-## File Structure
-plaintext
 
-```bash
-health-assistant/
-│
-├── app.py                         # Main application script
-├── saved_models/                  # Directory containing pre-trained models
-│   ├── diabetes_model.sav
-│   ├── heart_disease_model.sav
-│   └── parkinsons_model.sav
-├── requirements.txt               # Python dependencies
-├── Multiple disease prediction system - diabetes.ipynb  # Jupyter Notebook for Diabetes model
-├── Multiple disease prediction system - heart.ipynb     # Jupyter Notebook for Heart Disease model
-└── Multiple disease prediction system - Parkinsons.ipynb # Jupyter Notebook for Parkinson's model
-```
-
-### Screenshots
+## Screenshots
 Below are some screenshots showcasing how the application works:
 
 <div style="display: flex; gap: 10px; justify-content: center;">
@@ -99,8 +84,8 @@ Below are some screenshots showcasing how the application works:
 
 ## Technologies Used
 
- -Python: Programming language used for developing the application.
- -Streamlit: A framework for creating interactive web applications.
-scikit-learn: Machine learning library used for model development.
-pandas: Data manipulation and analysis.
-pickle: For saving and loading the trained models
+ - Python: Programming language used for developing the application.
+ - Streamlit: A framework for creating interactive web applications.
+ - scikit-learn: Machine learning library used for model development.
+ - pandas: Data manipulation and analysis.
+ - pickle: For saving and loading the trained models
