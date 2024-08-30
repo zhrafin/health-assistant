@@ -98,7 +98,8 @@ Below are some screenshots showcasing how the application works:
 
 
 ## Technologies Used
-Python: Programming language used for developing the application.
+
+#### Python: Programming language used for developing the application.
 Streamlit: A framework for creating interactive web applications.
 scikit-learn: Machine learning library used for model development.
 pandas: Data manipulation and analysis.
