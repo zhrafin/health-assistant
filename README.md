@@ -89,3 +89,26 @@ Below are some screenshots showcasing how the application works:
  - scikit-learn: Machine learning library used for model development.
  - pandas: Data manipulation and analysis.
  - pickle: For saving and loading the trained models
+
+
+## Model Details
+
+### 1. **Diabetes Prediction Model**
+
+- **Algorithm**: Random Forest Classifier
+- **Dataset**: The model is trained on the Pima Indians Diabetes dataset.
+- **Accuracy**: 77%
+
+### 2. **Heart Disease Prediction Model**
+
+- **Algorithm**: Logistic Regression
+- **Dataset**: The model is trained on the Cleveland Heart Disease dataset.
+- - **Accuracy**: 82%
+
+### 3. **Parkinson's Disease Prediction Model**
+
+- **Algorithm**: XGBoost Classifier
+- **Dataset**: The model is trained on the Parkinson's dataset from the UCI Machine Learning Repository.
+- **Accuracy**: 72%
+
+
