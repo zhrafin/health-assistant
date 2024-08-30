@@ -54,7 +54,7 @@ Below are some screenshots showcasing how the application works:
 
 - **Algorithm**: Logistic Regression
 - **Dataset**: The model is trained on the Cleveland Heart Disease dataset.
-- - **Accuracy**: 82%
+-  **Accuracy**: 82%
 
 ### 3. **Parkinson's Disease Prediction Model**
 
