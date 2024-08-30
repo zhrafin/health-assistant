@@ -65,7 +65,7 @@ Heart Disease Model: A classification model trained to assess the risk of heart 
 Parkinson's Model: A model trained to predict Parkinson's disease using voice measurements and other medical features.
 Each model has been trained on publicly available datasets and fine-tuned for better accuracy.
 
-File Structure
+## File Structure
 plaintext
 
 ```bash
@@ -82,9 +82,18 @@ health-assistant/
 └── Multiple disease prediction system - Parkinsons.ipynb # Jupyter Notebook for Parkinson's model
 ```
 
-Screenshots
+### Screenshots
 Below are some screenshots showcasing how the application works:
 
+<div style="display: flex; gap: 10px; justify-content: center;">
+    <img src="demo/Screenshot_1.png" alt="GUI Screenshot 6" width="400" />
+    <img src="demo/Screenshot_2.png" alt="GUI Screenshot 7" width="400" />
+</div>
+
+<div style="display: flex; gap: 10px; justify-content: center;">
+    <img src="demo/Screenshot_3.png" alt="GUI Screenshot 6" width="400" />
+    <img src="demo/Screenshot_7.png" alt="GUI Screenshot 7" width="400" />
+</div>
 
 
 
