@@ -31,51 +31,6 @@ Below are some screenshots showcasing how the application works:
     <img src="demo/Screenshot_7.png" alt="GUI Screenshot 7" width="400" />
 </div>
 
-## Installation
-
-Follow these steps to set up the Health Assistant locally:
-
-1. **Clone the repository**:
-
-   ```bash
-   git clone https://github.com/zhrafin/health-assistant.git
-   cd health-assistant
-Create a virtual environment (optional but recommended):
-
-```bash
-  python -m venv venv
-  source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-```
-  Install the required dependencies:
-
-```bash
-pip install -r requirements.txt
-Run the application:
-```
-
-```bash
-streamlit run app.py
-Usage
-```
-
-## Predictions:
-
-### Diabetes Prediction:
-Navigate to the "Diabetes Prediction" section from the sidebar.
-Enter the required medical data like number of pregnancies, glucose level, blood pressure, etc.
-Click on the "Diabetes Test Result" button to get the prediction.
-
-
-### Heart Disease Prediction:
-Select the "Heart Disease Prediction" option from the sidebar.
-Provide details such as age, sex, chest pain types, and other health parameters.
-Click the "Heart Disease Test Result" button for the outcome.
-
-### Parkinson's Prediction:
-Go to the "Parkinsons Prediction" section.
-Fill in voice measurements and other related parameters.
-Hit the "Parkinson's Test Result" button to view the prediction.
-
 
 
 ## Technologies Used
